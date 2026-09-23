@@ -37,9 +37,7 @@ bitbake mc:arm:wayland-egl-test-bolt-image \
         mc:arm:vkmark-bolt-image \
         mc:arm64:vkmark-bolt-image \
         mc:amd64:vkmark-bolt-image \
-        mc:arm:firebolt-egl-test-bolt-image \
-        mc:arm64:firebolt-egl-test-bolt-image \
-        mc:amd64:firebolt-egl-test-bolt-image \
+        mc:arm:firebolt-egl-test-bolt-image
 
 
 ```
